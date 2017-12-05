@@ -1,0 +1,9 @@
+/build/
+/lib/
+.idea/*
+*.accdb
+
+*.class
+*.war
+*.jar
+*.ear
