@@ -1,5 +1,0 @@
-http://stackoverflow.com/questions/21955256/manipulating-an-access-database-from-java-without-odbc
-
-http://ucanaccess.sourceforge.net/site.html
-
-http://java-course.ru/student/book1/database/
