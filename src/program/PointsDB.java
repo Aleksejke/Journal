@@ -3,10 +3,10 @@ package program;
 
 public class PointsDB {
    
-    public String Student;
-    public String Date;
-    public int Points;
-    public String Description;
+    private String Student;
+    private String Date;
+    private int Points;
+    private String Description;
     
     public PointsDB() {       
     }

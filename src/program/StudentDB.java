@@ -2,10 +2,10 @@ package program;
 
 
 public class StudentDB {
-    public String Group;
-    public String Name;
-    public String Surname;
-    public int Number;
+    private String Group;
+    private String Name;
+    private String Surname;
+    private int Number;
     
     public StudentDB() {       
     }

@@ -13,9 +13,8 @@ public class Group extends javax.swing.JDialog {
     private String studyProgram;
     private int entranceYear, choice;
     private Connect con;
-    /**
-     * Creates new form Group
-     */
+
+    
     public Group(java.awt.Frame parent, boolean modal, Connect data) {
         super(parent, modal);
         initComponents();
